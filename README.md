@@ -1,4 +1,4 @@
-# Intro-to-Deep-NN-with-Kears
+# Intro-to-Deep-NN-with-Keras
 Coursera certification with Deep Neural Network with Keras
 
 These are the solution files for the Coursera course on "Introduction to Deep Learning and Neural Network with Keras"
